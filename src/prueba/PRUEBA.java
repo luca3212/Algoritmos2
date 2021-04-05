@@ -9,7 +9,7 @@ import java.util.Scanner;
 import java.time.LocalDate;
 
 //nueo comenteareu
-
+//comentario desde netbeans
 /**
  *
  * @author luca
