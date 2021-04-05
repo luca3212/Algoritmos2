@@ -10,5 +10,7 @@ package prueba;
  * @author luca
  */
 public class NewClass {
+    int valor;
     
+    valor=2;
 }
